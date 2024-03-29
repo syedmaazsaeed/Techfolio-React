@@ -19,9 +19,10 @@ Contact Nebula: Reach out through the vast cosmos of social media and connect wi
 
 ![Portfolio Preview]
 
-![Portfolio Preview 1](file:///F:/Techfolio-React/Images/techfolio-1.png)
+![Portfolio Preview 1](Images/techfolio-1.png)
 
-![Portfolio Preview 2](file:///F:/Techfolio-React/Images/techfolio-2.png)
+![Portfolio Preview 1](Images/techfolio-2.png)
+
 
 
 
