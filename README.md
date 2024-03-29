@@ -17,6 +17,13 @@ Tech Stack Constellations: Witness the constellation of technologies I've master
 Contact Nebula: Reach out through the vast cosmos of social media and connect with me.
 
 
+![Portfolio Preview]
+
+(Techfolio-React/Images/techfolio-1.png)
+
+(Techfolio-React/Images/techfolio-2.png)
+
+
 **🛠️ Technologies Used**
 
 React.js
@@ -74,3 +81,4 @@ Let's explore new galaxies together and create digital marvels that inspire!
 **🌠 Discover More
 **
 Explore the stars further, discover hidden planets of knowledge, and embark on a cosmic journey of innovation and creativity. Let's shape the future together!
+
