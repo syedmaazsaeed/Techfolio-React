@@ -1,5 +1,5 @@
 
-                                                    **    Syed Maaz Saeed's Portfolio 🚀**
+                                                    ** Syed Maaz Saeed's Portfolio 🚀**
 
 Welcome to My Digital Universe! 🌌
 Welcome, fellow explorer! This is where magic meets code, creativity dances with technology, and ideas turn into digital reality. Step into my digital universe and discover the wonders I've crafted.
@@ -19,9 +19,10 @@ Contact Nebula: Reach out through the vast cosmos of social media and connect wi
 
 ![Portfolio Preview]
 
-(Techfolio-React/Images/techfolio-1.png)
+![Portfolio Preview 1](Techfolio-React/Images/techfolio-1.png)
 
-(Techfolio-React/Images/techfolio-2.png)
+![Portfolio Preview 2](Techfolio-React/Images/techfolio-2.png)
+
 
 
 **🛠️ Technologies Used**
