@@ -11,8 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Syed Maaz Saeed </span>
             from <span className="purple"> Bahawalpur, Pakistan.</span>
             <br /> <br />
-            I am currently Working as a MERN Stack Technology.As a self-taught
-            Front-End Developer | React Developer I specialize in modern web
+            I am currently Working as a MERN Stack Technology.As a self-taught Front-End Developer | React Developer I specialize in modern web
             technologies, including React Node Express JS and MongoDB.
             <br /> <br />
             I have completed (ICS) in Maths and Computer at Superior Group of
