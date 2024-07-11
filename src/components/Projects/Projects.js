@@ -8,6 +8,7 @@ import movieshub from "../../Assets/Projects/project4.png";
 import textify from "../../Assets/Projects/project3.png";
 import Newspulse from "../../Assets/Projects/project1.png";
 import inotebook from "../../Assets/Projects/project2.png";
+import Github from "../../Assets/Projects/Github.png";
 
 function Projects() {
   return (
@@ -21,6 +22,18 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Github}
+              isBlog={false}
+              title="Github-CodeSource-MernApp"
+              description="Github-CodeSource App is a full-stack MERN application with user authentication and profile management. It uses MongoDB Atlas for data storage and integrates GitHub authentication through Passport.js. The server is configured with Express and Node.js, using express-session for session management and Helmet.js for security. The frontend, built with React, provides a responsive interface with routes for user and explore functionalities."
+              ghLink="https://github.com/syedmaazsaeed/Github-CodeSource-FullStack-App"
+              demoLink="https://github.com/syedmaazsaeed/Github-CodeSource-FullStack-App"
+            />
+          </Col> 
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={textify}
